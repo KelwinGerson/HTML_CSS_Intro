@@ -1,0 +1,78 @@
+body {
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+.photoprincipal {
+    text-align: center;
+}
+
+.photorepolho {
+    text-align: left;
+
+}
+
+.photocerebro {
+    text-align: right;
+    position: none;
+
+}
+
+.photo {
+    border: black;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+#title, .subtitle, .post_title {
+    color: green;
+}
+
+#title {
+    font-size: 20px;
+    text-transform: none;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0%;
+    margin-bottom: 15px;
+    
+}
+
+.post {
+    
+    background: white;
+    padding: 15px;
+    border: 3px solid black;
+    margin-bottom: 15px;
+}
+
+.post_content {
+    margin: 0%;
+    margin-bottom: 15px;
+    text-transform: none;
+    text-align: auto    ;
+
+}
+
+.post_image {
+    margin-bottom: 15px;
+}
+
+
+.contacts_list {
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contacts_list li a {
+    color: blue;
+
+}
